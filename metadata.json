@@ -1,0 +1,6 @@
+{
+  "name": "MinbarLive - Mosque Khutbah Real-Time Translator",
+  "description": "Real-time multilingual speech translation system for Friday Khutbahs and Islamic speeches, broadcasting synchronized subtitles to mosque TV screens and attendee smartphones in English, Arabic, Turkish, Urdu, Hindi, and French.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
